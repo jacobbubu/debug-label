@@ -1,0 +1,37 @@
+{
+  "name": "debug-label",
+  "version": "1.0.0",
+  "description": "A handy debug label component in web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./start.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobbubu/debug-label.git"
+  },
+  "keywords": [
+    "test",
+    "demo",
+    "info",
+    "label",
+    "prototype",
+    "prototyping",
+    "debug"
+  ],
+  "author": "Rong Shen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobbubu/debug-label/issues"
+  },
+  "homepage": "https://github.com/jacobbubu/debug-label",
+  "dependencies": {
+    "domready": "^1.0.7",
+    "he": "^0.5.0"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.3",
+    "browserify": "^8.1.3"
+  }
+}
