@@ -52,5 +52,5 @@ And open up `localhost:9966` in your browser.
 Also, you could try
 
 ```
-npm start demo/multiLabelsWithStyles.js
+npm start -- demo/multiLabelsWithStyles.js
 ```
