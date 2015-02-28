@@ -44,7 +44,7 @@ npm install
 And then:
 
 ```
-npm start demo/demo.js
+npm start -- demo/demo.js
 ```
 
 And open up `localhost:9966` in your browser.
